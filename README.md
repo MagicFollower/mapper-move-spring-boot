@@ -1,6 +1,8 @@
 # 通用 Mapper 进阶实例：为什么好久都没更新了？
 
 博客地址：https://liuzh.blog.csdn.net/article/details/104776347
++
+https://www.yuque.com/u22384616/zdm852/uouqdait0lb5dsiw
 
 日志：
 
